@@ -17,14 +17,8 @@
   
   
 <h3> Results: </h3>
-
-  
-![alt text](https://user-images.githubusercontent.com/33175569/145479674-d3dbdc3f-8c3f-47a7-b8b9-4a07c16fc79d.png)
-![alt text](https://user-images.githubusercontent.com/33175569/145479713-bccf725f-918c-476a-b501-0627fd8daba7.png)
-![output3](https://user-images.githubusercontent.com/33175569/145479720-78fb56ef-1e77-4b60-abe3-79c46906973b.png)
-![Recommendation2_Yelp](https://user-images.githubusercontent.com/33175569/145479732-55337ef8-aa80-4c3a-9372-7a70383fbde3.PNG)
-![Topics_Yelp](https://user-images.githubusercontent.com/33175569/145479744-a1ddf91c-f55b-41a5-af5c-6f92064c1d34.PNG)
-![YElp_jsondata](https://user-images.githubusercontent.com/33175569/145479756-c1fb1751-b44e-4414-9996-36c697c12e58.PNG)
-![Yelp_Neo4j_output](https://user-images.githubusercontent.com/33175569/145479637-7a78a593-d0f4-4ad8-8021-eb515e031280.PNG)
-  
-
+![Community_wordclouds](https://user-images.githubusercontent.com/33175569/145480562-3253aa91-f1ed-49be-beca-8b2465073088.PNG)
+![output1](https://user-images.githubusercontent.com/33175569/145480583-c63ae06f-1b92-489e-b8f9-05221d6f7427.png)
+![output2](https://user-images.githubusercontent.com/33175569/145480596-94660289-b0af-41ed-9d13-2c09bb5bc60b.png)
+![output3](https://user-images.githubusercontent.com/33175569/145480609-669412e1-87c5-44f0-aada-8a52345b6c2d.png)
+![PageRank](https://user-images.githubusercontent.com/33175569/145480534-7f8b3073-deca-4fa1-a695-999fa42966be.PNG)
