@@ -18,7 +18,11 @@
   
 <h3> Results: </h3>
 ![Community_wordclouds](https://user-images.githubusercontent.com/33175569/145480562-3253aa91-f1ed-49be-beca-8b2465073088.PNG)
+  
 ![output1](https://user-images.githubusercontent.com/33175569/145480583-c63ae06f-1b92-489e-b8f9-05221d6f7427.png)
+  
 ![output2](https://user-images.githubusercontent.com/33175569/145480596-94660289-b0af-41ed-9d13-2c09bb5bc60b.png)
+
 ![output3](https://user-images.githubusercontent.com/33175569/145480609-669412e1-87c5-44f0-aada-8a52345b6c2d.png)
+
 ![PageRank](https://user-images.githubusercontent.com/33175569/145480534-7f8b3073-deca-4fa1-a695-999fa42966be.PNG)
