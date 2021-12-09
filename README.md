@@ -17,7 +17,7 @@
   
   
 <h3> Results: </h3>
-![[alt text](https://user-images.githubusercontent.com/33175569/145479674-d3dbdc3f-8c3f-47a7-b8b9-4a07c16fc79d.png)
+![alt text](https://user-images.githubusercontent.com/33175569/145479674-d3dbdc3f-8c3f-47a7-b8b9-4a07c16fc79d.png)
 
   
 ![alt text](https://user-images.githubusercontent.com/33175569/145479713-bccf725f-918c-476a-b501-0627fd8daba7.png)
