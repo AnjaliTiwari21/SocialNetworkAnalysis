@@ -18,7 +18,9 @@
   
 <h3> Results: </h3>
 ![output1](https://user-images.githubusercontent.com/33175569/145479674-d3dbdc3f-8c3f-47a7-b8b9-4a07c16fc79d.png)
-![output2](https://user-images.githubusercontent.com/33175569/145479713-bccf725f-918c-476a-b501-0627fd8daba7.png)
+
+  
+![alt text](https://user-images.githubusercontent.com/33175569/145479713-bccf725f-918c-476a-b501-0627fd8daba7.png)
 ![output3](https://user-images.githubusercontent.com/33175569/145479720-78fb56ef-1e77-4b60-abe3-79c46906973b.png)
 ![Recommendation2_Yelp](https://user-images.githubusercontent.com/33175569/145479732-55337ef8-aa80-4c3a-9372-7a70383fbde3.PNG)
 ![Topics_Yelp](https://user-images.githubusercontent.com/33175569/145479744-a1ddf91c-f55b-41a5-af5c-6f92064c1d34.PNG)
